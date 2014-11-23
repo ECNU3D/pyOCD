@@ -44,7 +44,7 @@ $ sudo python setup.py install
 ```
 
 
-* Mac: [hidapi](https://github.com/signal11/hidapi), [cython-hidapi](https://github.com/gbishop/cython-hidapi)
+* Mac: [hidapi](https://github.com/signal11/hidapi), [cython-hidapi](http://github.com/trezor/cython-hidapi)
 ```Shell
 $ brew install hidapi
 $ git clone https://github.com/gbishop/cython-hidapi.git
